@@ -1,6 +1,6 @@
 [submodule "external/openconnect"]
 	path = external/openconnect
-	url = https://github.com/cernekee/openconnect
+	url = https://github.com/DenysFrasinich/openconnect.git
 [submodule "external/stoken"]
 	path = external/stoken
 	url = https://github.com/cernekee/stoken
